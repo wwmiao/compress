@@ -1,0 +1,11 @@
+﻿  compressDlg.cpp
+d:\大三上课程\try\compress\compress\compressdlg.cpp(461): warning C4018: “<”: 有符号/无符号不匹配
+d:\大三上课程\try\compress\compress\compressdlg.cpp(467): warning C4018: “<”: 有符号/无符号不匹配
+d:\大三上课程\try\compress\compress\compressdlg.cpp(528): warning C4018: “<”: 有符号/无符号不匹配
+d:\大三上课程\try\compress\compress\compressdlg.cpp(535): warning C4018: “<”: 有符号/无符号不匹配
+d:\大三上课程\try\compress\compress\compressdlg.cpp(549): warning C4305: “=”: 从“__int64”到“int”截断
+d:\大三上课程\try\compress\compress\compressdlg.cpp(549): warning C4309: “=”: 截断常量值
+d:\大三上课程\try\compress\compress\compressdlg.cpp(723): warning C4018: “<”: 有符号/无符号不匹配
+d:\大三上课程\try\compress\compress\compressdlg.cpp(797): warning C4018: “<”: 有符号/无符号不匹配
+d:\大三上课程\try\compress\compress\compressdlg.cpp(803): warning C4018: “<”: 有符号/无符号不匹配
+  compress.vcxproj -> D:\大三上课程\try\compress\Debug\compress.exe
